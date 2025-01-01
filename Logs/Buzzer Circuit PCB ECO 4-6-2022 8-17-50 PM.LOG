@@ -1,0 +1,50 @@
+Added Component: Designator=C1(Cap,0805)
+Added Component: Designator=C2(Cap,0805)
+Added Component: Designator=J1(Header,3POS,0.1",RA)
+Added Component: Designator=PZT1(Buzzer,PKM13EPYH4000-A0)
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=Q2(SOT23-3)
+Added Component: Designator=R1(res, 0805, HD)
+Added Component: Designator=R2(res, 0805, HD)
+Added Component: Designator=R3(res, 0805, HD)
+Added Component: Designator=R4(res, 0805, HD)
+Added Component: Designator=R5(res, 0805, HD)
+Added Component: Designator=U1(SOT-353)
+Added Pin To Net: NetName=+5VDC Pin=C1-2
+Added Pin To Net: NetName=+5VDC Pin=J1-1
+Added Pin To Net: NetName=+5VDC Pin=PZT1-2
+Added Pin To Net: NetName=+5VDC Pin=R3-1
+Added Pin To Net: NetName=+5VDC Pin=R5-1
+Added Pin To Net: NetName=+5VDC Pin=U1-5
+Added Net: Name=+5VDC
+Added Pin To Net: NetName=BUZZER O\N\/OFF CONTROL Pin=J1-3
+Added Pin To Net: NetName=BUZZER O\N\/OFF CONTROL Pin=Q2-1
+Added Pin To Net: NetName=BUZZER O\N\/OFF CONTROL Pin=R5-2
+Added Net: Name=BUZZER O\N\/OFF CONTROL
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetPZT1_1 Pin=PZT1-1
+Added Pin To Net: NetName=NetPZT1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetPZT1_1 Pin=R3-2
+Added Net: Name=NetPZT1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Net: Name=NetR2_1
+Added Class: Name=Buzzer Circuit
